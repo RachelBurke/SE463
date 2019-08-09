@@ -1,0 +1,6 @@
+	For this assignment you will do the following:
+	a) Run and execute all unit test cases (with correct and inccorect code)
+	b) Write a new TestMethod called TestStringCapitalizer() and include Special Value test cases for a new testing a method called Capitalizer(str)
+	c) Run the unit tests to fail
+	d) Write the code for the Capitalizer(str) method in the strManipulator class (use the built-in str.ToUpper() method to convert all letters to upper case)
+	e) Run the test cases again with correct and incorrect code
