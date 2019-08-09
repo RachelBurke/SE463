@@ -1,0 +1,12 @@
+For this assignment you are asked to complete the following tasks:
+	a) Test drive the application and run all test cases for the methods of the Calculator class (valid and invalid code)
+	b) Create unit tests for a new method called Divider(divident,divisor)--run them to fail
+	c) Implement the code for the method Divider(divident, divisor) in the Calculator.cs class
+	d) Run them with data to pass the tests
+	e) Run them using divide-by-zero data to fail the tests
+	f) Make sure you handle the case of dividing by zero in the code and run again to pass all tests
+	g) Create unit tests for a new method called ToThePower(base,exponent)--run them to fail
+	h) Implement the code for the method ToThePower(base,exponent) in the Calculator.cs class
+	i) Run them with data to pass the tests 
+	j) Inject some incorrect data to fail the tests
+	k) Make necessary corrections in the code and run again to pass all tests

@@ -1,0 +1,6 @@
+For this assignment you are asked to complete the following tasks:
+	a) Test drive the application and run all unit test cases for the methods of the BankAccount class (valid and invalid code)
+	b) Implement a new feature/method in the BankAccount class where it will apply a low-balance fee ($10) when the balance of the account drops below $1000.
+	c) The new method will raise an exception saying that the account balance is dropped below a low-limit and will charge the account a $10 fee
+	d) Create Special Value unit tests for the new method
+	d) Run the unit tests with correct and incorrect code

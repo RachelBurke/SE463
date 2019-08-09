@@ -1,0 +1,18 @@
+C:\Users\linos\Desktop\SE463 Spring 2018\StringsUnitTestTutorial\StringTesting\bin\Debug\StringTesting.dll
+C:\Users\linos\Desktop\SE463 Spring 2018\StringsUnitTestTutorial\StringTesting\bin\Debug\StringTesting.pdb
+C:\Users\linos\Desktop\SE463 Spring 2018\StringsUnitTestTutorial\StringTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\linos\Desktop\SE463 Spring 2018\StringsUnitTestTutorial\StringTesting\bin\Debug\StringsUnitTestTutorial.dll
+C:\Users\linos\Desktop\SE463 Spring 2018\StringsUnitTestTutorial\StringTesting\bin\Debug\StringsUnitTestTutorial.pdb
+C:\Users\linos\Desktop\SE463 Spring 2018\StringsUnitTestTutorial\StringTesting\obj\Debug\StringTesting.csprojResolveAssemblyReference.cache
+C:\Users\linos\Desktop\SE463 Spring 2018\StringsUnitTestTutorial\StringTesting\obj\Debug\StringTesting.dll
+C:\Users\linos\Desktop\SE463 Spring 2018\StringsUnitTestTutorial\StringTesting\obj\Debug\StringTesting.pdb
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\StringsUnitTestTutorial\StringsUnitTestTutorial\StringTesting\bin\Debug\StringTesting.dll
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\StringsUnitTestTutorial\StringsUnitTestTutorial\StringTesting\bin\Debug\StringTesting.pdb
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\StringsUnitTestTutorial\StringsUnitTestTutorial\StringTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\StringsUnitTestTutorial\StringsUnitTestTutorial\StringTesting\bin\Debug\StringsUnitTestTutorial.dll
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\StringsUnitTestTutorial\StringsUnitTestTutorial\StringTesting\bin\Debug\StringsUnitTestTutorial.pdb
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\StringsUnitTestTutorial\StringsUnitTestTutorial\StringTesting\obj\Debug\StringTesting.csprojResolveAssemblyReference.cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\StringsUnitTestTutorial\StringsUnitTestTutorial\StringTesting\obj\Debug\StringTesting.csproj.CoreCompileInputs.cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\StringsUnitTestTutorial\StringsUnitTestTutorial\StringTesting\obj\Debug\StringTesting.csproj.CopyComplete
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\StringsUnitTestTutorial\StringsUnitTestTutorial\StringTesting\obj\Debug\StringTesting.dll
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\StringsUnitTestTutorial\StringsUnitTestTutorial\StringTesting\obj\Debug\StringTesting.pdb

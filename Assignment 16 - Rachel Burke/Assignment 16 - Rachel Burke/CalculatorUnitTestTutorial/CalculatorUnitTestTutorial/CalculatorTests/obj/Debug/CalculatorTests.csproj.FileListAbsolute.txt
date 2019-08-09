@@ -1,0 +1,18 @@
+C:\Users\linos\Desktop\SE463 Spring 2018\CalculatorUnitTestTutorial\CalculatorTests\bin\Debug\CalculatorTests.dll
+C:\Users\linos\Desktop\SE463 Spring 2018\CalculatorUnitTestTutorial\CalculatorTests\bin\Debug\CalculatorTests.pdb
+C:\Users\linos\Desktop\SE463 Spring 2018\CalculatorUnitTestTutorial\CalculatorTests\bin\Debug\CalculatorUnitTestTutorial.dll
+C:\Users\linos\Desktop\SE463 Spring 2018\CalculatorUnitTestTutorial\CalculatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\linos\Desktop\SE463 Spring 2018\CalculatorUnitTestTutorial\CalculatorTests\bin\Debug\CalculatorUnitTestTutorial.pdb
+C:\Users\linos\Desktop\SE463 Spring 2018\CalculatorUnitTestTutorial\CalculatorTests\obj\Debug\CalculatorTests.csprojResolveAssemblyReference.cache
+C:\Users\linos\Desktop\SE463 Spring 2018\CalculatorUnitTestTutorial\CalculatorTests\obj\Debug\CalculatorTests.dll
+C:\Users\linos\Desktop\SE463 Spring 2018\CalculatorUnitTestTutorial\CalculatorTests\obj\Debug\CalculatorTests.pdb
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\CalculatorUnitTestTutorial\CalculatorUnitTestTutorial\CalculatorTests\bin\Debug\CalculatorTests.dll
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\CalculatorUnitTestTutorial\CalculatorUnitTestTutorial\CalculatorTests\bin\Debug\CalculatorTests.pdb
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\CalculatorUnitTestTutorial\CalculatorUnitTestTutorial\CalculatorTests\bin\Debug\CalculatorUnitTestTutorial.dll
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\CalculatorUnitTestTutorial\CalculatorUnitTestTutorial\CalculatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\CalculatorUnitTestTutorial\CalculatorUnitTestTutorial\CalculatorTests\bin\Debug\CalculatorUnitTestTutorial.pdb
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\CalculatorUnitTestTutorial\CalculatorUnitTestTutorial\CalculatorTests\obj\Debug\CalculatorTests.csprojResolveAssemblyReference.cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\CalculatorUnitTestTutorial\CalculatorUnitTestTutorial\CalculatorTests\obj\Debug\CalculatorTests.csproj.CoreCompileInputs.cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\CalculatorUnitTestTutorial\CalculatorUnitTestTutorial\CalculatorTests\obj\Debug\CalculatorTests.csproj.CopyComplete
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\CalculatorUnitTestTutorial\CalculatorUnitTestTutorial\CalculatorTests\obj\Debug\CalculatorTests.dll
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\CalculatorUnitTestTutorial\CalculatorUnitTestTutorial\CalculatorTests\obj\Debug\CalculatorTests.pdb

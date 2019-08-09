@@ -1,0 +1,11 @@
+C:\Users\linos\Desktop\SE463 Spring 2018\StringsUnitTestTutorial\StringsUnitTestTutorial\bin\Debug\StringsUnitTestTutorial.dll
+C:\Users\linos\Desktop\SE463 Spring 2018\StringsUnitTestTutorial\StringsUnitTestTutorial\bin\Debug\StringsUnitTestTutorial.pdb
+C:\Users\linos\Desktop\SE463 Spring 2018\StringsUnitTestTutorial\StringsUnitTestTutorial\obj\Debug\StringsUnitTestTutorial.csprojResolveAssemblyReference.cache
+C:\Users\linos\Desktop\SE463 Spring 2018\StringsUnitTestTutorial\StringsUnitTestTutorial\obj\Debug\StringsUnitTestTutorial.dll
+C:\Users\linos\Desktop\SE463 Spring 2018\StringsUnitTestTutorial\StringsUnitTestTutorial\obj\Debug\StringsUnitTestTutorial.pdb
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\StringsUnitTestTutorial\StringsUnitTestTutorial\StringsUnitTestTutorial\bin\Debug\StringsUnitTestTutorial.dll
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\StringsUnitTestTutorial\StringsUnitTestTutorial\StringsUnitTestTutorial\bin\Debug\StringsUnitTestTutorial.pdb
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\StringsUnitTestTutorial\StringsUnitTestTutorial\StringsUnitTestTutorial\obj\Debug\StringsUnitTestTutorial.csprojResolveAssemblyReference.cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\StringsUnitTestTutorial\StringsUnitTestTutorial\StringsUnitTestTutorial\obj\Debug\StringsUnitTestTutorial.csproj.CoreCompileInputs.cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\StringsUnitTestTutorial\StringsUnitTestTutorial\StringsUnitTestTutorial\obj\Debug\StringsUnitTestTutorial.dll
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 16 - Rachel Burke\StringsUnitTestTutorial\StringsUnitTestTutorial\StringsUnitTestTutorial\obj\Debug\StringsUnitTestTutorial.pdb

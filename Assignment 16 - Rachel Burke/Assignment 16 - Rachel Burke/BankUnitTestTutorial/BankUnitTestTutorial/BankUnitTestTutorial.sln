@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankUnitTestTutorial", "BankUnitTestTutorial\BankUnitTestTutorial.csproj", "{FF5D2D26-3784-4779-B153-5DCE0A4E3293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTest", "BankTest\BankTest.csproj", "{BD5FD1AA-3BB1-4965-95FB-F08963EB052C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{56804ADC-7D9B-431C-8191-B0F0ED6C9E7C}"
+	ProjectSection(SolutionItems) = preProject
+		WhatToDo.txt = WhatToDo.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF5D2D26-3784-4779-B153-5DCE0A4E3293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5D2D26-3784-4779-B153-5DCE0A4E3293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5D2D26-3784-4779-B153-5DCE0A4E3293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5D2D26-3784-4779-B153-5DCE0A4E3293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5FD1AA-3BB1-4965-95FB-F08963EB052C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5FD1AA-3BB1-4965-95FB-F08963EB052C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5FD1AA-3BB1-4965-95FB-F08963EB052C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5FD1AA-3BB1-4965-95FB-F08963EB052C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

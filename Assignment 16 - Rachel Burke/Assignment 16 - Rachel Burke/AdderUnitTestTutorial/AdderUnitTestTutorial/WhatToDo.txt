@@ -1,0 +1,6 @@
+For this assignment you are asked to complete the following tasks:
+	a) Test drive the application and run all test cases for the add() method of the Adder class (with correct and incorrect code)
+	b) Using ECT and Special Value, create new Test Classes with TestMethods and unit tests for the add() method
+	d) Run them to pass the tests 
+	e) Inject some incorrect code or test data to fail the tests
+	f) Make necessary corrections in the code and run again to pass all tests
