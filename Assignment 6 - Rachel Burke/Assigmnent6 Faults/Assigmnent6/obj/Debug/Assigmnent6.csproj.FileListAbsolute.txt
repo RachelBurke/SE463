@@ -1,0 +1,20 @@
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6\Assigmnent6\bin\Debug\Assigmnent6.exe.config
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6\Assigmnent6\bin\Debug\Assigmnent6.exe
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6\Assigmnent6\bin\Debug\Assigmnent6.pdb
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6\Assigmnent6\obj\Debug\Assigmnent6.csprojResolveAssemblyReference.cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6\Assigmnent6\obj\Debug\Assigmnent6.LongDistanceCalc.resources
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6\Assigmnent6\obj\Debug\Assigmnent6.Properties.Resources.resources
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6\Assigmnent6\obj\Debug\Assigmnent6.csproj.GenerateResource.Cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6\Assigmnent6\obj\Debug\Assigmnent6.csproj.CoreCompileInputs.cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6\Assigmnent6\obj\Debug\Assigmnent6.exe
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6\Assigmnent6\obj\Debug\Assigmnent6.pdb
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6 Faults\Assigmnent6\bin\Debug\Assigmnent6.exe.config
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6 Faults\Assigmnent6\bin\Debug\Assigmnent6.exe
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6 Faults\Assigmnent6\bin\Debug\Assigmnent6.pdb
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6 Faults\Assigmnent6\obj\Debug\Assigmnent6.csprojResolveAssemblyReference.cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6 Faults\Assigmnent6\obj\Debug\Assigmnent6.LongDistanceCalc.resources
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6 Faults\Assigmnent6\obj\Debug\Assigmnent6.Properties.Resources.resources
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6 Faults\Assigmnent6\obj\Debug\Assigmnent6.csproj.GenerateResource.Cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6 Faults\Assigmnent6\obj\Debug\Assigmnent6.csproj.CoreCompileInputs.cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6 Faults\Assigmnent6\obj\Debug\Assigmnent6.exe
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Assignment 6 - Rachel Burke\Assigmnent6 Faults\Assigmnent6\obj\Debug\Assigmnent6.pdb
