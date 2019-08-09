@@ -1,0 +1,41 @@
+C:\Users\linos\Desktop\MyBankingApp\MyBankingApp\bin\Debug\MyBankingApp.exe.config
+C:\Users\linos\Desktop\MyBankingApp\MyBankingApp\bin\Debug\MyBankingApp.exe
+C:\Users\linos\Desktop\MyBankingApp\MyBankingApp\bin\Debug\MyBankingApp.pdb
+C:\Users\linos\Desktop\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.csprojResolveAssemblyReference.cache
+C:\Users\linos\Desktop\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.BankingUI.resources
+C:\Users\linos\Desktop\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.Properties.Resources.resources
+C:\Users\linos\Desktop\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.csproj.GenerateResource.Cache
+C:\Users\linos\Desktop\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.exe
+C:\Users\linos\Desktop\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.pdb
+H:\TEACHING\FALL 2017\SE361\In-class Tutorials\MyBankingAppNoDB\MyBankingApp\MyBankingApp\bin\Debug\MyBankingApp.exe.config
+H:\TEACHING\FALL 2017\SE361\In-class Tutorials\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.exe
+H:\TEACHING\FALL 2017\SE361\In-class Tutorials\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.pdb
+C:\Users\linos\Desktop\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\bin\Debug\MyBankingApp.exe.config
+C:\Users\linos\Desktop\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.exe
+C:\Users\linos\Desktop\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.pdb
+C:\Users\linos\Desktop\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\bin\Debug\BankingDatabase.mdf
+C:\Users\linos\Desktop\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\bin\Debug\BankingDatabase_log.ldf
+C:\Users\linos\Desktop\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\bin\Debug\MyBankingApp.exe
+C:\Users\linos\Desktop\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\bin\Debug\MyBankingApp.pdb
+C:\Users\linos\Desktop\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.csprojResolveAssemblyReference.cache
+C:\Users\linos\Desktop\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.BankingUI.resources
+C:\Users\linos\Desktop\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.Properties.Resources.resources
+C:\Users\linos\Desktop\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.csproj.GenerateResource.Cache
+C:\Users\linos\Desktop\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\bin\Debug\MyBankingApp.exe.config
+C:\Users\linos\Desktop\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.exe
+C:\Users\linos\Desktop\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.pdb
+C:\Users\linos\Desktop\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\bin\Debug\BankingDatabase.mdf
+C:\Users\linos\Desktop\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\bin\Debug\BankingDatabase_log.ldf
+C:\Users\linos\Desktop\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\bin\Debug\MyBankingApp.exe
+C:\Users\linos\Desktop\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\bin\Debug\MyBankingApp.pdb
+C:\Users\linos\Desktop\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.csprojResolveAssemblyReference.cache
+C:\Users\linos\Desktop\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.BankingUI.resources
+C:\Users\linos\Desktop\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.Properties.Resources.resources
+C:\Users\linos\Desktop\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.csproj.GenerateResource.Cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Project - Team We\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.csprojResolveAssemblyReference.cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Project - Team We\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.BankingUI.resources
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Project - Team We\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.Properties.Resources.resources
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Project - Team We\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.csproj.GenerateResource.cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Project - Team We\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.csproj.CoreCompileInputs.cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Project - Team We\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.exe
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 6\SE463\Project - Team We\MyBankingAppWithPremierSavingsAndDB\MyBankingAppWithDatabase\MyBankingAppNoDB\MyBankingApp\MyBankingApp\obj\Debug\MyBankingApp.pdb
